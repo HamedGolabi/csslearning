@@ -1,0 +1,7 @@
+const htmlBody = document.querySelector('body')
+const randomClickFunction = function(){
+  const colors =["#002942","#0ca708","red","green","blue","yellow","purple","orange"]
+  
+}
+ 
+
